@@ -4,10 +4,10 @@
 The objective of this lab project is to create a honeynet within the Microsoft Azure cloud platform. A honeynet is a network set up with intentional vulnerabilities to attract and monitor cyberattackers. By setting up a honeynet, I aim to observe and analyze the behaviors and techniques of attackers, thereby gaining insights into current threat landscapes and improving certain defensive measures.
 
 ## Technologies Employed
-Microsoft Azure: Cloud computing platform used for creating and managing virtual machines and network configurations.<br>
-Windows and Linux Virtual Machines: Instances set up to mimic real-world systems for attackers to target.<br>
-Network Security Groups (NSGs): Azure’s firewall service used to control inbound and outbound traffic to virtual machines.<br>
-SQL Server: Database server configured as an additional honeypot resource to attract database-specific attacks.<br>
+- Microsoft Azure: Cloud computing platform used for creating and managing virtual machines and network configurations.<br>
+- Windows and Linux Virtual Machines: Instances set up to mimic real-world systems for attackers to target.<br>
+- Network Security Groups (NSGs): Azure’s firewall service used to control inbound and outbound traffic to virtual machines.<br>
+- SQL Server: Database server configured as an additional honeypot resource to attract database-specific attacks.<br>
 
 ## Methodologies And Execution
 ### Create Three Different Virtual Machines:
